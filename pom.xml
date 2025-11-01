@@ -29,7 +29,7 @@
 
 	<dependencies>
 
-		<!-- hiii   test dependencies -->
+		<!-- hiii test dependencies -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
